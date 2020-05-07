@@ -26,7 +26,13 @@
           <target>Ansicht Export/Import</target>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">XmlPort Sample - Property Caption</note>
-        </trans-unit>	
+        </trans-unit>
+        <trans-unit id="Page 1673401186 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New,Process,Report</source>
+          <target>Neu,Prozess,Bericht</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Order - Property PromotedActionCategories</note>
+        </trans-unit>
       </group>
     </body>
   </file>
